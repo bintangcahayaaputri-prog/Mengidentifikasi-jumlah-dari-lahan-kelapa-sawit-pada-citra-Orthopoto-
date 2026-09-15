@@ -1,0 +1,1 @@
+# Mengidentifikasi-jumlah-dari-lahan-kelapa-sawit-pada-citra-Orthopoto-
